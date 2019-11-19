@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ . "/OperationInterface.php";
-
 class DividesBy implements OperationInterface
 {
     private $number;
