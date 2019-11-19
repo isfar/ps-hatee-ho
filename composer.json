@@ -1,0 +1,15 @@
+{
+    "name": "isfar/live-test",
+    "description": "Paysera Live Test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "isfar",
+            "email": "isfar.sifat@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"": ""}
+    }
+}
