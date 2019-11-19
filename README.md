@@ -28,4 +28,4 @@
 
 ### Command
 
-`php index.php 1 10 '-' '{"type":"in_array","word":"joff","options":{"numbers":\[1,4,9\]}}' '{"type":"larger_than","word":"tchoff","options":{"number":5}}'`
+`php index.php 1 10 '-' '{"type":"in_array","word":"joff","options":{"numbers":[1,4,9]}}' '{"type":"larger_than","word":"tchoff","options":{"number":5}}'`
